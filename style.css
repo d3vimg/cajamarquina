@@ -1,0 +1,16 @@
+main{
+    width: 80%;
+    margin: auto;
+}
+header h1 {
+    text-align: center;
+}
+footer {
+    background-color: #00040a;
+    color: #fff;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+footer h6 {
+    text-align: center;
+}
